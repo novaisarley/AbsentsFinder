@@ -1,0 +1,994 @@
+First Name [Required],Last Name [Required],Email Address [Required],Org Unit Path [Required]
+ALDEIR,JOSE NEVES NETO,aldeir.195563@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ALICE,LIMA DE LIMA,alice.193932@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ANA,PAULA DE MELO PANTOJA,ana.193633@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ANA,KÉZIA BRITTO DA SILVA,ana.193999@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ANDERSON,LOPES PINTO,anderson.194202@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ANDREY,RODRIGUES SOUZA,andrey.195613@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+BERNARDO,LIMA VIANA,bernardo.193677@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+DAYANNE,PONTES DA SILVA,dayanne.193850@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ELIANDRA,DE SOUZA BARBOSA,eliandra.194315@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ERIK,PEREIRA ARAGÃO DE OLIVEIRA,erik.195470@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ERIKA,LOURENA COSTA DE SOUSA,erika.193773@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+FRANCISCO,NETO SANTIAGO DOS SANTOS,francisco.193808@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+FRANCYELLE,BATISTA DE SOUZA,francyelle.195531@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+GABRIEL,FREDSON MEDEIROS MALCHER,gabriel.195713@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+GABRIEL,OLIVEIRA DA SILVA,gabriel.195515@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+GUSTAVO,CORRÊA COSTA,gustavo.194433@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ITALO,DE SOUZA MADY,italo.195523@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+JEYZA,RAYLA TEIXEIRA MORAES,jeyza.195543@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+JONATHAN,ALMEIDA CAUPER,jonathan.195459@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+JOÃO,EDUARDO FREITAS BORGES,joao.193767@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+JOÃO,MENDES BEZERRA NETO,joao.195494@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+JOÃO,MARCOS GUIMARÃES PINTO,joao.195488@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+KATRINE,RODRIGUES SAHDO,katrine.195716@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+KEMILY,BRANDÃO DE SOUZA,kemily.194656@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+LAURA,CARVALHO DA SILVA DO Ó,laura.195501@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+LEOCRISTIAN,JOSÉ DE OLIVEIRA MIRANDA,leocristian.195469@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+LETÍCIA,TIMÓTEO TOGA,leticia.193675@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+LETÍCIA,MONTEIRO DA SILVA,leticia.194732@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+LUAN,CARLOS ALVES CANTO,luan.194578@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+LYAM,OLIVEIRA BENACON,lyam.195724@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+MARCOS,VINICIUS LIMA TAVEIRA,marcos.195628@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+MATHEUS,NOGUEIRA MACIEL,matheus.195633@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+NADSON,MONTEIRO MORAIS,nadson.195455@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+NICOLY,SEVALHO SILVA,nicoly.195718@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+RAFAEL,CUNHA DOS SANTOS,rafael.195518@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+RAIANE,VIANA CARVALHO,raiane.194265@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ROGER,DE CARVALHO OLIVEIRA,roger.195630@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+SAMILLY,SUZANA RODRIGUES DE MORAES,samilly.193631@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+SHAYANNE,VICTÓRIA VEIGA ROCHA,shayanne.195711@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+SILAS,GABRIEL DE FIGUEREDO BRANDAO,silas.195717@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+THIAGO,CARDOSO DE SOUSA,thiago.194551@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+VINÍCIUS,DA SILVA SOUSA,vinicius.195635@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+WELISON,LEMOS DOS SANTOS,welison.195482@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+WENDENSON,SANTANA DE SOUZA,wendenson.195721@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+WILLIANY,BEATRIZ ATHAIDE VINHOTE DE SOUZA,williany.194373@fmm.org.br,/EnsMedio/Eletronica/1oAno/1AE
+ALISON,YÚLLE DOS SANTOS GÓES,alison.194123@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+AMANDA,SANTANA MELO,amanda.195452@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+ANA,GABRIELLY DANTAS DE SOUZA,ana.194496@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+ANGELO,ROBERTO PAIXÃO FREITAS FILHO,angelo.195723@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+ARNALDO,DE PAULA MARTINS,arnaldo.194646@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+CAMILA,SALGADO SARKIS,camila.194945@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+CHARLOTTE,MARIE ALVES SENRA,charlotte.195580@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+EDUARDA,ARAUJO DE ADELIA,eduarda.194735@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+EMILLY,YANCA DA SILVA,emilly.195093@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+ERIC,ELIO FREITAS PIMENTEL,eric.195610@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+ESTHER,ZILZA LIMA SICSU,esther.195708@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+EVELYN,CRISTINA COSTA DOVAL,evelyn.195709@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+FERNANDA,BENTES FERREIRA,fernanda.195722@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+FRANCISCO,DE ASSIS BONFIM UCHÔA,francisco.195140@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+GABRIEL,LIMA DA SILVA,gabriel.195509@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+GABRIELLY,MEDEIROS DA SILVA,gabrielly.195660@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+GIOVANNA,VINHOTE SERRUYA FREIRE,giovanna.195726@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+GUILHERME,FIRMINO DOS REIS,guilherme.195641@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+GUNNAR,VINGREN TEIXEIRA APARÍCIO,gunnar.194580@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+HENRIQUE,ARAUJO DO NASCIMENTO,henrique.195592@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+JOAO,VICTOR BORGES SOUZA,joao.195485@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+Joana,Myrella Alves Costa,joana.193769@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+JOSE,ROOSEVELT GUIMARÃES PRINTES,jose.195647@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+KASSIA,MARIA DA COSTA COELHO,kassia.195608@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+KEVELYN,VIVIAN AZEVEDO DE ARAÚJO,kevelyn.194796@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+LETICIA,CRISTINE FERREIRA DA SILVA,leticia.195719@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+LETICIA,FRANCA DA SILVA BORGES,leticia.194779@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+LUCIANA,COLARES MARQUES,luciana.195507@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+LUIS,FELIPE TAVARES GALVÃO,luis.195648@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+MARCUS,VINÍCIUS FERREIRA DE AZEVEDO,marcus.195607@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+MARIA,LUIZA DOS ANJOS DUTRA,maria.195655@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+MARIA,PAULA NERY ASSUNÇÃO,maria.195725@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+MURILO,MACIEL DA SILVA,murilo.195651@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+NATANAEL,NATIVIDADE DA SILVA,natanael.195045@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+NICOLLY,VITTORIA DOS SANTOS REIS,nicolly.194699@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+PEDRO,OLIVEIRA MARQUES JUNIOR,pedro.195586@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+RAFAEL,DOS SANTOS DA SILVA,rafael.195520@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+RUAN,MIGUEL BENTES DE SOUZA,ruan.195634@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+RUTHYELLEN,ANDRADE DE SENA,ruthyellen.194909@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+SAULO,ONYW LIMA REIS,saulo.195132@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+SAYMON,RICK DE LIMA VIEIRA,saymon.194004@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+SOPHIA,SILVA DE OLIVEIRA,sophia.195109@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+THIAGO,DANIEL ROSSONE CAMPELO,thiago.195712@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+VITOR,LUIZ CALDAS DE SOUSA,vitor.195590@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+WANESSA,GABRIELLE LIRA DA SILVA,wanessa.195615@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+WELISON,DOS SANTOS DA SILVA,welison.193810@fmm.org.br,/EnsMedio/Eletronica/1oAno/1BE
+ADRIELLY,HARUMI NOGUEIRA SILVA,adrielly.193290@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+ADRYEL,JORGE DA SILVA NAJAR,adryel.193273@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+ANA,ELOISA DA SILVA FAÇANHA,ana.193267@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+ANA,CAROLINE ALVES MORON,ana.182347@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+ANA,BEATRIZ BRANDÃO COSTA E SILVA,ana.182225@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+ANDRÉ,GABRIEL DE ARAÚJO CARVALHO,andre.193418@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+CARLOS,HENRIQUE MONTEIRO ARAÚJO,carlos.193411@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+CELINE,PEREIRA DE SOUZA,celine.173180@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+DAVI,LAMONGI DE AGUIAR,davi.193288@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+DILERMANDO,JUNIO DA SILVA SANTOS,dilermando.193423@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+FERNANDO,MOTA COSTA,fernando.193440@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+GABRIEL,ROCHA ANDRADE DA SILVA,gabriel.193446@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+GABRIEL,RIBEIRO DE SOUZA E SILVA,gabriel.193295@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+GIOVANNI,PAULO AUZIER RIBEIRO,giovanni.182344@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+GUILHERME,ALVES TEIXEIRA,guilherme.193555@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+JOSÉ,EVANDRO DE ALMEIDA,jose.193448@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+JOÃO,VICTOR FERREIRA SOUZA,joao.193447@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+JULIANNE,CASTRO DOS SANTOS,julianne.193305@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+LARISSA,CONCEIÇÃO PANTOJA SANTANA,larissa.183035@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+LARISSA,CAVALCANTE CORRÊA,larissa.193278@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+LAYZA,LAILA GARCIA DE ALMEIDA,layza.193410@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+LETÍCIA,DE FREITAS RODRIGUES,leticia.182882@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+LUCAS,GABRIEL MATEUS FIGUEIREDO,lucas.193419@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+MARCOS,VINICIUS DOS SANTOS SILVA,marcos.193291@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+NATHANAEL,DE LIMA BRAZ,nathanael.182248@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+PABLO,LEÃO DA SILVA SANTOS,pablo.182368@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+PEDRO,VITOR BRITO DA SILVA DE JESUS,pedro.182576@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+RODRIGO,CÉZAR MAQUINÉ DE LIMA,rodrigo.193299@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+SABRINA,STEFANY SOUZA GOMES,sabrina.193302@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+SAMIELLY,GOMES GUIMARÃES,samielly.193265@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+STEPHANNY,AMAZONAS VIANA,stephanny.193284@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+THIAGO,VINICIUS COSTA GUIMARAES,thiago.182666@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+VINICIUS,DA SILVA NUNES,vinicius.193268@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+VITOR,GUSTAVO MONTEIRO DE SOUZA,vitor.193449@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+VITOR,LUIS MARTINS FREITAS,vitor.182293@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+WILLIAM,LIMA NAVARRO,william.193263@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+YASMIN,EMMANUELLY DOS SANTOS MONTEIRO,yasmin.193427@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+ÂNGELO,ANTONIO ANDRADE DA SILVA,angelo.193412@fmm.org.br,/EnsMedio/Eletronica/2oAno/2AE
+ADRIEL,VICTOR SALLES DE LIMA,adriel.170431@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+ALISON,FRANCO CORDEIRO,alison.193414@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+ANA,BEATRIZ MORAES DA SILVA,ana.193309@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+ANA,LUIZA WEZEM RIBEIRO,ana.193436@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+ANA,ISIS FERREIRA DE ANDRADE,ana.170522@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+ANNE,KAROLINE DA SILVEIRA BARROS,anne.182437@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+BRENDA,BARROS DE ALENCAR,brenda.193553@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+CELICE,NUNES DE CARVALHO,celice.182962@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+GEOVANA,COSTA MARTINS,geovana.193442@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+GUILHERME,CASANOVA ROCHA MAGALHÃES,guilherme.193283@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+HENRIQUE,DE SOUZA EVANGELISTA,henrique.193415@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+HUGO,BARBOSA LEITÃO,hugo.193431@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+ISABELLE,PESSOA MARQUES,isabelle.193552@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+JOSE,CANUTO JUNIO CARVALHO DA SILVA,jose.193279@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+LEANDRO,TIAGO DE SOUZA FILHO,leandro.193318@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+LETÍCIA,DE SOUZA FIGUEIRA,leticia.182499@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+LUIZ,OTÁVIO SOUZA DE OLIVEIRA DE LIMA,luiz.193554@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+LUIZ,FRANCISCO ALVES CARDOSO,luiz.193306@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+MARCELO,COELHO SENA,marcelo.193434@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+MARCUS,VINICIUS ALMEIDA MONTEIRO,marcus.193548@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+MORONI,ALDEBARÁN CASTILLO CAVALCANTE,moroni.193280@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+NÚBIA,FERNANDES SERIQUE,nubia.182459@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+PEDRO,QUEIROZ MARQUES,pedro.193287@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+PEDRO,HENRIQUE PHILIP PEREIRA DE SOUZA,pedro.193433@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+PEDRO,HENRIQUE VIEIRA VASCONCELOS PEREIRA,pedro.193276@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+RAFAELLA,ALMEIDA NUNES,rafaella.193293@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+RAÍSSA,PIRES BORGES,raissa.182723@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+REBECA,ARAÚJO FALCÃO,rebeca.193417@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+ROBERTSON,MANOEL GAMA DE MOURA,robertson.183026@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+SALOMÃO,CARDOSO DANTAS,salomao.193551@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+SARAH,SHELLY DA SILVA FARIAS,sarah.173133@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+SUSANA,ANDRADE LINHARES,susana.193298@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+SÉRGIO,ÁLEX TAVARES DA SILVA,sergio.193432@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+THIAGO,HENRIQUE DE AZEVEDO PINTO,thiago.193277@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+VINICIUS,MOURA DOS SANTOS,vinicius.193313@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+VITOR,GABRIEL DA SILVA OLIVEIRA MELO,vitor.193264@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+YAN,JOSÉ DE SOUZA PALMEIRA,yan.193269@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+YASMIN,ABECASSIS DA CUNHA,yasmin.182524@fmm.org.br,/EnsMedio/Eletronica/2oAno/2BE
+ADRIEL,MATHEUS DE LIMA REIS,adriel.172022@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+ANA,ALICE FERREIRA ARAÚJO,ana.171957@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+ANA,CAROLINA GODINHO FONTENELE,ana.171973@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+ANDRESSA,MOTTA SANTANA DA SILVA,andressa.171986@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+ANNA,IZABELLY COUTINHO DOS SANTOS,anna.171966@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+CAIO,ANTHONY OLIVEIRA CIPRIANI,caio.171967@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+CALYEL,JUNIO DE ANDRADE DOS SANTOS,calyel.171996@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+DANIELLE,PAIVA DA SILVA,danielle.172019@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+DANILO,DALTON DOS SANTOS COSTA,danilo.171970@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+DEYVID,MELO PEREIRA,deyvid.171976@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+EDMILSON,DA COSTA PINTO,edmilson.172017@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+EMILLY,GABRIELLY ALMEIDA CRUZ,emilly.171988@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+EMILLY,ALEJANDRA GONZÁLEZ DE ABREU,emilly.172039@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+ERIK,GUSTAVO LIMA DE OLIVEIRA,erik.172083@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+GABRIEL,ESTEVES ZBOROWSKI,gabriel.171995@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+ISAAC,DAVI DA SILVA MARTINS,isaac.171961@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+ISABELA,MOURAO XAVIER,isabela.172021@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+JAMILLY,DA SILVA FREITAS,jamilly.171972@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+JOÃO,PAULO SOUZA SILVA,joao.171978@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+JUAN,JARDIM DE OLIVEIRA,juan.171987@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+KAMILA,SOUZA DA SILVA,kamila.171992@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+KENNEDY,DANTAS DE ABREU,kennedy.171964@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+LAEL,LUCAS RIBEIRO TRINDADE,lael.172090@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+LUIZ,EDUARDO DUARTE JÁCOMO,luiz.171956@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+MARCOS,VINICIUS UCHOA BEZERRA,marcos.170974@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+MARCOS,VINÍCIUS SERIQUE DA SILVA,marcos.170972@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+MARIA,HELOISA AMARO SANTOS,maria.172025@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+MATEUS,SOARES LITAIFF,mateus.171013@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+MAYRA,SUENIR CAMPOS DA SILVA,mayra.141669@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+QUEZIA,MARTEL DE OLIVEIRA CARDOSO,quezia.172075@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+RYAN,GONÇALVES CARDOSO,ryan.171984@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+THIAGO,FRANÇA SANTOS,thiago.172029@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+WILLKISON,OLIVEIRA DA SILVA,willkison.171951@fmm.org.br,/EnsMedio/Eletronica/3oAno/3AE
+ALICE,REBOUÇAS DA COSTA,alice.171633@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+ALINE,VITÓRIA DE OLIVEIRA VALENTE,aline.171950@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+AMANDA,DE SOUSA MELO,amanda.172038@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+AMÁLIA,CRISTINE ANDRADE PINTO,amalia.171962@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+ANA,VITORIA COSTA REPOLHO,ana.172030@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+ANDRIA,KAYLANE AQUINO DOS SANTOS,andria.171993@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+CAIO,REIS ARAÚJO DE OLIVEIRA,caio.171997@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+CAMILLE,RENATA DANTAS CORDOVIL,camille.171958@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+CARLOS,EDUARDO LIRA MARTINS,carlos.171998@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+ELIZEU,MAGALHÃES PINTO JUNIOR,elizeu.171979@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+EMILLY,VITÓRIA DE SOUZA FARAH,emilly.171974@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+GABRIEL,TOSHIYUKI BATISTA TOYODA,gabriel.172005@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+GUSTAVO,CAVALCANTE DE FRANÇA SILVA,gustavo.172004@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+ISMAEL,BRUNO ALCÂNTARA TORRES,ismael.172010@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+JONATHAN,SARMENTO DE SOUSA,jonathan.172032@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+JOSIAS,VARGAS DE SOUZA,josias.171952@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+JOÃO,VICTOR DE OLIVEIRA FERREIRA,joao.172011@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+JOÃO,MARCOS CAVALCANTE CORREA,joao.172036@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+JULIANA,DANTAS DA SILVA,juliana.172037@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+KEUVYN,CARLOS CARLO MARTINIANO,keuvyn.171975@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+LUIZ,EDUARDO VIEIRA MUNIZ,luiz.171989@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+MANUELLY,DOS SANTOS MORAIS,manuelly.171980@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+MARCILEYDE,THALLISSA CABRAL TEIXEIRA,marcileyde.172089@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+MARIANA,DE SOUZA FARIAS,mariana.171959@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+NAOMY,COSTA LUCACHINSKI,naomy.172006@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+ODANIR,CRISTIAN MENEZES CABRAL,odanir.171960@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+PEDRO,RODRIGUES DUTRA,pedro.171981@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+RENAN,MILLER PIRES,renan.171953@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+ROSIELLY,ABREU DA SILVA,rosielly.171983@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+RUAN,PABLO ROSAS BRASIL,ruan.171990@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+THAISSA,MARIA SARMENTO PALHETA,thaissa.172020@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+VINICIUS,DE SOUSA MENEZES,vinicius.172003@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+VINÍCIUS,IPIRANGA DE OLIVEIRA,vinicius.170535@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+VITOR,MANOEL BRANDÃO DE FREITAS,vitor.171985@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+WENDEL,DE SOUSA APARICIO,wendel.170468@fmm.org.br,/EnsMedio/Eletronica/3oAno/3BE
+ADRIEL,ROBERTO CARVALHO DE SOUZA,adriel.195510@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+AMANDA,GABRIELLY DE JESUS NUNES,amanda.194969@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+ANA,LETICIA ARAUJO FIGUEIREDO,ana.195727@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+ANA,LUIZA ZAU,ana.193912@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+ANDREZZA,HAMBURGO DE FREIRE,andrezza.195627@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+ANDRÉ,GUILHERME OLIVEIRA GENTIL,andre.195462@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+ARIADNE,ARAUJO FARIAS,ariadne.195503@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+AUGUSTO,CEZAR LIMA DE SOUSA,augusto.195528@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+CAIO,EDUARDO MORAES DA SILVA,caio.193919@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+CAMILA,DA SILVA AZEVEDO,camila.193732@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+CHRISTIAN,LUCAS MEBORACH BARBOSA,christian.195012@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+CRISTIANA,DO NASCIMENTO PEDROSA,cristiana.195487@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+ELIZANDRA,CHAVES DA SILVA,elizandra.195602@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+FÁBIO,GUSTAVO MENDES DO NASCIMENTO,fabio.194719@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+GEISE,GABRIELLA SOUZA MONTEIRO,geise.195704@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+GIOVANNA,DE SOUZA RIBEIRO,giovanna.195573@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+GUILHERME,GRIJO GURGEL COSTA,guilherme.195517@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+HIGOR,GOMES ALBUQUERQUE NEVES,higor.195561@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+HILARY,LARISSA SILVA DE SOUSA,hilary.195495@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+ISABELLE,MIRANDA SALES,isabelle.195549@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+ISMAEL,JOSÉ DO NASCIMENTO,ismael.195115@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+JEAN,JUNIOR LIMA DA SILVA,jean.195516@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+JULIANA,SOARES FEITOSA,juliana.195555@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+JÔNATAS,COSTA DE CASTRO,jonatas.195619@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+KARINE,ALVES CATUABA,karine.193743@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+LAYANDRA,MARQUES CALIXTO DE OLIVEIRA,layandra.195620@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+LETICYA,DA COSTA OLIVEIRA,leticya.194027@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+LUANNY,BIANCA DE LIMA RODRIGUES,luanny.195600@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+LUCAS,SOUSA TAVARES,lucas.194065@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+MANUELA,MAGALHÃES QUADROS,manuela.193895@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+MARCUS,CAVALCANTE DE SOUZA,marcus.195715@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+MARIA,EDUARDA MARTINS DA SILVA,maria.193865@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+MARIA,ELIS PESSOA MENDES,maria.195611@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+MATHEUS,HENRIQUE SILVA DIAS,matheus.195631@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+NICOLAS,BRYAN DE SOUZA FRAGATA,nicolas.194092@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+PEDRO,HENRIQUE BARROS MENDONÇA,pedro.195098@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+RAÍSSA,BRANDÃO MARTINS,raissa.195529@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+SAIDE,MARIA CANO CADENA,saide.195646@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+SAMANTHA,SANTOS DA COSTA,samantha.195643@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+SAMUEL,DAVI SILVA DE LIMA CHAGAS,samuel.193709@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+SOPHIA,ROBERTA LEÃO SERRAO,sophia.195679@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+VALDIR,BACELAR SUMAETA JUNIOR,valdir.195577@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+VICTOR,DANIEL MEDEIROS DOS SANTOS,victor.195484@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+VITOR,HENRIQUE DUARTE SANTIAGO,vitor.195659@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+VITORIA,SALES SANTOS,vitoria.193943@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+YASMIM,GABRIELLY DA SILVA BARROS,yasmim.193729@fmm.org.br,/EnsMedio/Informatica/1oAno/1AI
+AIRTON,NASCIMENTO DA SILVEIRA FILHO,airton.194426@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+ALISSON,DE CARVALHO SILVA,alisson.195481@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+ALLAN,RAFAEL HADDAD DE BRITO,allan.195683@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+ANA,VITORIA NONATO DE MAGALHÃES,ana.195568@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+ANA,LETÍCIA FERNANDES CAVALCANTE,ana.195504@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+ANNE,CAROLINE COSTA FRANCO MARTINS,anne.194922@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+BIANCA,SILVA BONATES,bianca.194047@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+CAMILLY,CINTRA SALGADO,camilly.195672@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+CARLA,BEATRIZ DA TRINDADE CHAVES,carla.195456@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+DANIELLY,LIMA DE CASTRO,danielly.194674@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+DIEGO,ARAÚJO BELARMINO,diego.194214@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+EDUARDO,FREITAS MENDES DE ANDRADE,eduardo.195478@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+ELINE,RIBEIRO FERREIRA,eline.195535@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+FELIPHE,CAUÃ DOS SANTOS ALMEIDA,feliphe.194778@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+FERNANDA,DE ASSIS MOREIRA,fernanda.194331@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+GEANE,DE SOUZA CRUZ,geane.195669@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+GEOVANNA,GABRIELLE DA SILVA SANTOS,geovanna.195530@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+GIOVANA,MENDES VALENTE,giovana.193903@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+HANNA,NUNES REIS,hanna.193974@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+HENRIQUE,DA SILVA FURTADO,henrique.194242@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+ISAQUE,DA COSTA VERAS,isaque.195522@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+JHENNIFER,LIMA VIEIRA,jhennifer.194947@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+JOÃO,CARLOS DOS SANTOS LUNA,joao.195593@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+JULIA,EDUARDA LUZ BARROSO,julia.195474@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+KARINA,CHRISTINE FERRÃO MARTINS ROCHA,karina.194718@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+LAÍS,FEITOSA FERREIRA DA COSTA,lais.193619@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+LETICIA,VITORIA CARDOSO DE LIMA,leticia.195666@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+LUCAS,CAMPOS DE SOUZA,lucas.195705@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+LUIZ,HENRIQUE CASTRO DA SILVA,luiz.194835@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+MARIA,EDUARDA PEREIRA DOS SANTOS,maria.194711@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+MARIA,EDUARDA SANTANA DA COSTA,maria.194016@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+MIGUEL,BATISTA NETO,miguel.195706@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+NAOMI,HARADA TEIXEIRA DE OLIVEIRA,naomi.195714@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+NARA,RUBIA FIGUEIRA DA SILVA,nara.195728@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+NICOLAS,NELSON DE ALBUQUERQUE MOURA,nicolas.195574@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+REBECA,EVELYN DE SOUZA COELHO,rebeca.195657@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+RONALD,DAVI DA SILVA MENEZES,ronald.195556@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+STHEFANI,ÁGUIDO BEZERRA,sthefani.194851@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+THIAGO,FORTES CORREA,thiago.195685@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+VICTOR,ADRIEL RIBEIRO VIEIRA,victor.195559@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+VINICIUS,WANTUIL COSTA DOS SANTOS,vinicius.195519@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+VITOR,BRUNO SOUZA DA SILVA,vitor.195506@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+WILLIAM,JEREMIAS VASCONCELOS SOUZA,william.195008@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+YASMIN,DIAS DE ALBUQUERQUE,yasmin.193921@fmm.org.br,/EnsMedio/Informatica/1oAno/1BI
+ALVIN,FILIPE MELO GAMA,alvin.194135@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+AMANDA,DA SILVA FREIRE,amanda.194526@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+ANA,BEATRIZ MOREIRA MOTA,ana.195554@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+ANA,MARIA RIBEIRO ANDRADE,ana.195584@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+ANNA,ROBERTHA LOPES CARDOSO,anna.194572@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+ARINALDO,DE SOUZA AQUINO JÚNIOR,arinaldo.195720@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+BEATRIZ,LIMA DE OLIVEIRA,beatriz.194561@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+CARLA,LETÍCIA FERREIRA MACENA,carla.194929@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+CAROLINE,DA CUNHA MELO,caroline.193562@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+CELSO,ABRAÃO ALBUQUERQUE DE OLIVEIRA,celso.195662@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+CRISTIAN,SEBASTIAN LIMA CAVALCANTE,cristian.195612@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+DAVI,AGUIAR MOREIRA,davi.195653@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+EDUARDO,NUNES DIRANE,eduardo.195460@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+ESTER,ALMEIDA CAUPER,ester.195664@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+FERNANDO,ALVES DA COSTA,fernando.194857@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+FLÁVIA,FERREIRA SILVA,flavia.195472@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+GABRIEL,PEREIRA MAIA,gabriel.195688@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+GABRIELLY,AYRES MORAIS DE SOUZA,gabrielly.195479@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+GIOVANNA,COSTA NOVO MOREIRA,giovanna.195621@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+HÁTENA,TASSINARY CASCAIS SOUZA,hatena.194556@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+IARLEN,SOUZA DOS SANTOS,iarlen.195645@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+JUAN,GABRIEL DE CASTRO CAVALCANTE PASSOS,juan.195673@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+JULIA,LEAL FÉLIX,julia.195490@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+KALEB,TOMAZI QUEIROZ,kaleb.195729@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+KAMILE,DE FRANÇA MARQUES,kamile.195605@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+KAROLINA,PIMENTA TORRES,karolina.195671@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+LARA,EMILLY SOARES NEVES,lara.195581@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+LETÍCIA,KATRINA TEIXEIRA BUTEL,leticia.194195@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+LUANE,VASCONCELOS DA SILVA,luane.193987@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+LUCAS,MELO CAMILO,lucas.195636@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+LUIZA,DA COSTA CAXEIXA,luiza.195458@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+MELLKZEDHEKY,ALVES RODRIGUES,mellkzedheky.195014@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+MILLENA,MARIA ALMEIDA DOS SANTOS,millena.195505@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+MÁRIO,RUAN CAVALCANTE OLIVEIRA,mario.195670@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+NEYLSON,EMANUEL PANTOJA ARAUJO,neylson.195614@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+PAULO,FERNANDES DA SILVA,paulo.193731@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+REVISSON,SILVA DE OLIVEIRA,revisson.194734@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+SAMUEL,NASCIMENTO CORREA,samuel.195654@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+SARAH,ESTER SOUZA DE ALMEIDA,sarah.195582@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+SOPHIA,VITÓRIA DA SILVA DE SOUZA,sophia.195499@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+VICTOR,SANTANA QUEIROZ,victor.195591@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+VÍTOR,EMANUEL DOS SANTOS DA SILVA,vitor.193671@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+WDSON,ANDRADE DA SILVA,wdson.194633@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+WENDELL,SILVA DE ALMEIDA,wendell.195678@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+YASMIM,ALMEIDA LEITE DA SILVA,yasmim.195548@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+ÍTALO,FEITOSA PINHEIRO,italo.195663@fmm.org.br,/EnsMedio/Informatica/1oAno/1CI
+ADRIELLE,CRISTINA GOMES MARQUES,adrielle.171586@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+ALINE,SILVA DE ALMEIDA,aline.193342@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+ANA,CAROLINA ALVES PINHEIRO,ana.193474@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+ANA,JÚLIA PEREIRA CORRÊA,ana.193459@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+ANA,CAROLINA RAMOS,ana.173200@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+ANDRÉ,VALENTE DE CRISTO,andre.193340@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+BEATRIZ,SOARES GUIMARÃES,beatriz.193528@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+CAIO,PINHEIRO DOS REIS,caio.182385@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+CARLOS,VICTOR BARAUNA AMORIM,carlos.193358@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+DANIEL,VICTOR ALMEIDA MORAES,daniel.193320@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+DENISON,JÚNIO SILVA E SILVA,denison.193487@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+EDUARDA,PIRES DE SOUZA,eduarda.182304@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+GIOVANNA,MAGALHAES GONÇALVES,giovanna.193476@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+GUSTAVO,AMÉRICO MAGALHÃES,gustavo.182251@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+GUSTAVO,BARDALES DA CRUZ,gustavo.182748@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+INGRID,CARIOCA FREITAS,ingrid.193328@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+JACKELLYNE,LAUANA DE ANDRADE LOIOLA,jackellyne.193490@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+JOÃO,VITOR DA SILVA SIQUEIRA,joao.182466@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+JULIE,CAROLINE CAMPOS LIARTE,julie.193366@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+JULLY,ANNE PEREIRA MOREIRA,jully.193337@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+KELWIN,DOS SANTOS FONTES,kelwin.193486@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+LAURA,HELENA DE OLIVEIRA VASCONCELOS,laura.193480@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+LORHANA,RAYLA CARDOSO DA SILVA,lorhana.183022@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+LUCAS,DOS SANTOS GARCIA,lucas.193464@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+LUCAS,DA SILVA DIAS,lucas.193330@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+LUCAS,LIMA CARIOCA,lucas.193484@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+MAIRA,PERES MARCZEWSKI,maira.182803@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+MARCOS,ANTÔNIO SILVA DE MELO,marcos.193334@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+MARIA,IZABELLE DE LIMA MORAES,maria.193343@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+MARIA,EDUARDA TRINDADE DE SOUZA GUIMARÃES,maria.182239@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+MATHEUS,ARMANDO REYES BUSTAMANTE,matheus.182230@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+PAULO,ADONIAS XAVIER MACIEL,paulo.193325@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+RANULFO,GONÇALVES DIAS DOS REIS,ranulfo.182286@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+REBECA,DE OLIVEIRA GONÇALVES,rebeca.193341@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+RENAN,SOUZA MARTINS,renan.173202@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+SAMUEL,DE SALES SANTA RITA,samuel.193345@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+STEPHESON,CLAYTON DO ROSÁRIO CUSTÓDIO,stepheson.193488@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+VICTOR,HUGO COSTA PORTELA,victor.182308@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+VINICIUS,MACHADO OLIVEIRA,vinicius.193369@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+VIVIAN,MATOS DE SOUZA,vivian.173187@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+ÊMILLY,VITÓRIA DE SOUZA ARAÚJO,emilly.173191@fmm.org.br,/EnsMedio/Informatica/2oAno/2AI
+ALEXANDRE,DOS SANTOS OLIVEIRA,alexandre.193470@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+ANA,CAROLINA BENTES ANDRADE,ana.193322@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+ANA,CLARA NOGUEIRA ALVES,ana.193349@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+APOLO,BRENER DA COSTA FREITAS,apolo.193338@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+CECÍLIA,MAIA GUIMARÃES,cecilia.182639@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+DAVY,DE SOUZA ASSUNÇÃO,davy.193477@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+DJAIRO,DANTAS DA SILVA FILHO,djairo.193353@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+EDNEI,BRITO BATISTA,ednei.183040@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+EIDIR,EILEN SOUZA DA SILVA E SILVA,eidir.183005@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+GABRIEL,VASCONCELOS AUZIER,gabriel.193466@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+GABRIELY,TRAJANO DOS SANTOS,gabriely.193321@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+GUSTAVO,SANTOS DE OLIVEIRA,gustavo.193556@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+IGOR,FROTA MIRANDA,igor.193458@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+IZAQUE,ROLIM CANAVARRO,izaque.193362@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+JOSÉ,HENRIQUE GONÇALVES SALES,jose.193529@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+JOÃO,VICTOR SILVA ANDRADE,joao.193549@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+JOÃO,VICTOR SARAIVA DA MOTA,joao.193332@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+JULIENE,WITÓRIA VIANA BARROS ARAÚJO,juliene.193462@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+JÉSSICA,PATRÍCIA SANTANA PINTO,jessica.193354@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+LILIANA,MARESSA PEREIRA SUAREZ,liliana.193363@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+LOUISE,CRISTINE GOMES GUIMARÃES AREQUE,louise.193481@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+LUCAS,GABRIEL ARAÚJO VIEIRA,lucas.182460@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+LUCAS,DE OLIVEIRA FRANÇA,lucas.193368@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+LUCAS,EDUARDO SIQUEIRA DOS SANTOS,lucas.193461@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+LUIZ,HENRIQUE FERREIRA DE SOUZA,luiz.193356@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+LÚCIO,ANDRADE LEITÃO JÚNIOR,lucio.182215@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+MARCOS,HENRIQUE PARENTE DA SILVA,marcos.182335@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+MARIA,GABRIELA MORAIS DE SA,maria.193485@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+MARIA,CLARA DA SILVA,maria.193482@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+MARIA,GIOVANNA GONÇALVES SALES,maria.193451@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+MATHEUS,ALVES DE FREITAS,matheus.182384@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+MEISON,MOURA DA SILVA FILHO,meison.193326@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+NAIARA,DA SILVA FONSECA,naiara.193324@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+RAQUEL,DE SÁ SILVA,raquel.193450@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+RAYANNE,BEATRIZ DA SILVA SAENZ,rayanne.193483@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+RAÍSSA,DOS SANTOS SALES,raissa.193327@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+REBECCA,YUÇANA ANDRADE DE CARVALHO,rebecca.193473@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+SAMUEL,BARAÚNA DOS SANTOS,samuel.193492@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+SÉRGIO,MAX LUÍS LIMA DOS SANTOS NUNES,sergio.193475@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+THAYSSA,WALESKA RAMOS DA SILVA,thayssa.193355@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+VICTÓRIA,BARBOZA DE LIMA,victoria.193350@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+VITOR,AUGUSTO AGUIAR TRINDADE,vitor.182196@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+VIVIANE,PINHEIRO DOS SANTOS,viviane.193359@fmm.org.br,/EnsMedio/Informatica/2oAno/2BI
+ANA,BEATRIZ PINTO SEIXAS,ana.193479@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+ANA,CAROLINA PEREIRA DOS SANTOS,ana.193360@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+ANDERSON,MULLER PEREIRA MORAES FILHO,anderson.193347@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+BEATRIZ,FARIAS MATELINS,beatriz.182201@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+CALEBE,GURGEL ARAGÃO,calebe.182912@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+CAMILLE,ANDRADE DE SOUZA,camille.182361@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+CRISTIANA,LUÍSA VIEIRA DA ROCHA LOPES,cristiana.193472@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+DIEGO,DE SOUZA NASCIMENTO,diego.193331@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+ELIAS,AUZIER MAIA,elias.193460@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+GABRIEL,BARAÚNA GUEDES,gabriel.193339@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+GABRIELLY,OLIVEIRA DA CRUZ,gabrielly.182852@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+IGOR,OLIVEIRA DO CARMO,igor.193456@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+ISABELLA,ALMEIDA MACEDO DANIEL,isabella.170840@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+JAIRO,LIMA MAGALHÃES DE AZEVEDO,jairo.193453@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+JOAO,VITOR CORTEZ DE SOUZA,joao.193346@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+JOSUÉ,SILVA FONTENELE,josue.182925@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+KAUÃ,ANTHONY BASTOS VIEIRA,kaua.193333@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+KLÍSCIA,ROBERTA DA COSTA ALVES,kliscia@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+LARISSA,OLIVEIRA DA SILVA,larissa.193335@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+LUCAS,ANDRADE FARIAS,lucas.193351@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+LUCAS,NASCIMENTO RODRIGUES DE ALENCAR,lucas.193430@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+LUDIVIK,EDUARDO SILVA DE PAULA,ludivik.193531@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+LUIZ,EDUARDO SOUZA MENDES,luiz.193471@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+MANUELA,ALVES VIEIRA,manuela.193452@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+MARIA,EDUARDA FERREIRA RODRIGUES,maria.182362@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+MARINA,PRAIA NUNES DE SOUZA,marina.193329@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+MATEUS,DA SILVA BARROS,mateus.182664@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+NICOLE,VIEIRA JACCOUD,nicole.193357@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+PABLO,KAUÃ OLIVEIRA VASCONCELOS,pablo.193367@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+RAYANE,AZEVEDO AVELAR,rayane.182785@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+RAÍSSA,ASSIMEN VALENTE,raissa.182410@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+REBEKA,NASCIMENTO DE ALMEIDA,rebeka.182635@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+RENNAN,MOREIRA GOMES,rennan.193323@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+RICARDO,HENRIQUE BEZERRA DA SILVA JÚNIOR,ricardo.193421@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+SABRINA,DA PAZ ALVES,sabrina.182247@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+SAMUEL,COSTA DA SILVA,samuel.173184@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+SELTHON,NORONHA DE MOURA,selthon.193365@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+THALITHA,BEZERRA DA SILVA,thalitha.182816@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+VITÓRIA,SERRÃO DO CARMO,vitoria@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+VÍCTOR,VÍCTOR ARAÚJO DE OLIVEIRA,victor.193467@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+WANNA,LUIZA VIEIRA DA SILVA,wanna.193491@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+YASMIM,FEITOSA DE SOUZA,yasmim.182842@fmm.org.br,/EnsMedio/Informatica/2oAno/2CI
+ABYDA,DE SOUZA PEREIRA,abyda.172048@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+ADAM,PATRICK BATISTA KEHL,adam.170423@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+ADRIANO,MARTES OLIVEIRA PANTOJA,adriano.172009@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+ADRYAN,DYLAN MARTINS GOLVIM,adryan.171880@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+ALEXSSANDRO,LIMA DA SILVA,alexssandro.171946@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+BRUNO,DIAS DE VASCONCELOS,bruno.170678@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+CARLA,BEATRIZ AMORIM DA SILVA,carla.171898@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+CATARINE,VICTÓRIA CAMPOS DOS SANTOS,catarine.171884@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+DÉBORA,MACIEL SILVA,debora.171864@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+EDMILSON,JOSE BATISTA MARQUES JUNIOR,edmilson.171948@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+EDUARDA,DA SILVA FERREIRA,eduarda.171863@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+EMILLY,RAFAELE PEREIRA ARRUDA,emilly.171871@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+ERIC,TIAGO BECIL LOPES,eric.171885@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+EVILÁZIO,ALVES DA SILVA JÚNIOR,evilazio.171878@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+FABIANE,KELLY COTA FREITAS,fabiane.172084@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+FELIPE,PIRES MORENO,felipe.172007@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+GABRIEL,RODRIGUES BHERING,gabriel.172018@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+GABRIEL,SANTOS DE LIMA,gabriel.171861@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+GIOVANNA,MAGALHAES DE AZEVEDO,giovanna.171867@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+IAN,MARCONY LOPES SALAZAR,ian.171865@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+JIOANNY,DIAS DO CARMO,jioanny.172060@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+JONAS,KAUÃ FARIAS DE SOUSA,jonas.172041@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+JOSÉ,ELIAS DE SOUZA PRADO,jose.171937@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+LUIZA,VITÓRIA BARBOSA PEREIRA,luiza.172043@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+LÚCIA,PIRES DE SOUZA,lucia.171866@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+MARIA,VIRGINIA CONNELL MORANTES,maria.171882@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+MEILY,CRISTINI FROIS RIBEIRO CAVALCANTE,meily.171862@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+MIRELA,BENTES PINA,mirela.171939@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+PAULO,RICARDO GARCIA DA SILVA,paulo.171869@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+PEDRO,GABRIEL PINTO DIAS,pedro.172012@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+PEDRO,HENRIQUE SOUZA ARAUJO,pedro.171935@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+ROMULO,VIEIRA FREIRE,romulo.172045@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+TIAGO,BRASIL LIMA,tiago.171915@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+VICTOR,GUILHERME CAVALCANTE DE VASCONCELOS,victor.172067@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+VIVIANE,DOS SANTOS AMORIM,viviane.171922@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+VÍCTOR,HUGO MENDES DE SOUZA,victor.172023@fmm.org.br,/EnsMedio/Informatica/3oAno/3AI
+ANA,FLÁVIA DA SILVA MENEZES,ana.171943@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+ANA,CAROLINE CORTEZ DE SOUZA,ana.171947@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+ANDRE,VICTOR DA SILVA BANDEIRA,andre.171889@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+CÁSSIO,RODRIGO MARCIÃO DE ALBUQUERQUE,cassio.170779@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+DANIEL,LOPES XAVIER,daniel.171929@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+FELIPE,LIMA ALMEIDA DE OLIVEIRA,felipe.171879@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+FELIPE,CARDOSO MELO PEREIRA,felipe.172049@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+FERNANDO,LUIZ DA SILVA FREIRE,fernando.171883@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+FRANCISCO,DAS CHAGAS OLIVEIRA NETO,francisco.172040@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+GABRIEL,FREIRE DE SOUZA,gabriel.171925@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+GEOVANNA,VITORIA DA SILVA MIRANDA,geovanna.171942@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+GERSON,VRENER SILVA DE SOUZA,gerson.172050@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+GIULIA,EMANUELE MONTEIRO DE ARAUJO,giulia.171874@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+GUSTAVO,HENRICK CARVALHO DE ALMEIDA TEIXEIRA,gustavo.171907@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+INGRID,SAMILY FERREIRA BENTES,ingrid.171940@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+ISAAC,LOPES NOGUEIRA,isaac.172059@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+JESSICA,BRAGA MARQUES,jessica.171926@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+JOHNATAN,COSTA SALES DIAS,johnatan.172051@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+JOÃO,MARCELO AMARAL DE SOUZA,joao.171890@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+JULYANE,LELES MACIEL,julyane.171917@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+KAMILLY,AMANCIO BATISTA,kamilly.171891@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+KIRK,MATOS ISAAC SAHDO,kirk.171322@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+LARISSA,TAINÁ VANZILER PAZ,larissa.171906@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+LUCAS,NUNES DE OLIVEIRA,lucas.171910@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+LUCAS,ISAAC ALVES DE FREITAS,lucas.171924@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+LUIZA,NATASHA TAVARES AZEVEDO,luiza.171099@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+MAIARA,LETICIA BRITO DO ROSARIO,maiara.171923@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+MOISÉS,BRUCE ARAÚJO,moises.170413@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+NÁTHALLY,SERRÃO DOS ANJOS,nathally.171920@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+PEDRO,HENRIQUE MARTINS SILVA,pedro.171662@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+REBECA,CAROLINA LIRA DE CARVALHO OTÉRO,rebeca.171892@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+RUTE,VITORIA DA SILVA ABREU,rute.171921@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+SANTIAGO,PAIVA ROSA BORGES,santiago.171868@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+SARAH,BEATRIZ DOS SANTOS MELO,sarah.171914@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+STÉPHANY,DIAS PESSOA,stephany.172046@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+YARA,NUNES DE OLIVEIRA,yara.171911@fmm.org.br,/EnsMedio/Informatica/3oAno/3BI
+AIRTON,SALES MONTEIRO JUNIOR,airton.171909@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+ARLEY,NOVAIS DO NASCIMENTO,arley.170587@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+ARNELY,MATHIORY VALE NEVES,arnely.170646@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+BRENDA,SERRÃO BRAGA,brenda.171901@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+BRENNER,XAVIER LIMA,brenner.171894@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+BRUNO,VICTOR DUARTE NASCIMENTO,bruno.171949@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+CARINE,SOARES ALVES,carine.170741@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+DEBORA,CARVALHO DUARTE COLHYER,debora.172096@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+DIOGO,JUAN RESENDE SEABRA,diogo.170941@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+EDUARDA,DE ANDRADE SIMÕES,eduarda.171881@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+ESTHER,VIEIRA E SILVA,esther.171918@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+FELIPE,MAKLOUF COELHO,felipe.171896@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+GABRIEL,ASCATE DA SILVA,gabriel.171875@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+GABRIELLE,FERREIRA PIZANO,gabrielle.172058@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+ISAAC,BATISTA FERREIRA,isaac.171945@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+ISABELLA,BARBOSA DE MELO,isabella.171934@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+JOAO,VICTOR BAKER GONCALVES,joao.171908@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+JOSÉ,JOSÉ CARLOS PEIXOTO LEÃO,jose.171933@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+JÚLIO,SOUZA DE BRITO,julio.171893@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+KEVIN,PRATA DA SILVA,kevin.172062@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+LAURA,KELLY COSTA CUNHA,laura.171872@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+LORENZO,WINDMOLLER MARTINS,lorenzo.172063@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+LUIZ,GUSTAVO FERRAZ BANDEIRA,luiz.171096@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+LÔUAN,JOHNSON PINHEIRO FRANCO,louan.172064@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+NATALIA,CRISTINA DA COSTA VIEIRA,natalia.170913@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+NATALIA,BRUCE SANTARÉM,natalia.172033@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+RAFAELA,LIMA FERREIRA,rafaela.171912@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+REBECA,MADI OLIVEIRA,rebeca.171916@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+SAMUEL,ALBUQUERQUE DE PAIVA,samuel.172066@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+SARAH,PORTELA SALEHI,sarah.171877@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+TAINÁ,CRUZ DA COSTA,taina.172034@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+THIILYN,NIKSAN REIS GARCIA,thiilyn.172016@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+VICTOR,LORENZO PEREIRA TORRES,victor.171941@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+VINICIUS,ANDRADE PERRONE,vinicius.171887@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+WASHINGTON,ANTONIO MORENO RIEGA,washington.171903@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+YASMIM,ALVES GALVÃO,yasmim.171899@fmm.org.br,/EnsMedio/Informatica/3oAno/3CI
+ABNER,DIAS RODRIGUES,abner.195703@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+ADRIELLY,OLIVEIRA AIRES,adrielly.194069@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+ALAN,DANIEL LIMA DE OLIVEIRA,alan.193902@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+ALEXANDRE,TAVARES LEE,alexandre.195534@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+ALICE,NERY SANTOS SILVA,alice.195508@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+ANA,CAROLINA OLIVEIRA NASCIMENTO,ana.195693@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+ANA,LUIZA SILVA DE MENEZES ROCHA,ana.195492@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+ANA,CLARA DE SOUZA PANTOJA,ana.195571@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+ANDREY,KALEL SOUZA SOARES,andrey.195477@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+BRENO,GABRIEL MODESTO BRAGA,breno.193973@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+CAROLINE,PAIVA MONTEIRO,caroline.195691@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+CLAUDIO,MUNIZ COUTINHO,claudio.194678@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+DAVID,YAN DOS SANTOS PRADO,david.194000@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+DOUGLAS,VINICIUS CARVALHO CRESPO,douglas.195583@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+EMILLY,ALINE LIMA RAMOS,emilly.194144@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+EWERTON,DE SOUZA FERREIRA,ewerton.194362@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+FERNANDA,SILVA DA COSTA,fernanda.195576@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+GISELE,DOS SANTOS RIBEIRO,gisele.194858@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+GLABIO,PEREIRA DE MELLO FILHO,glabio.195698@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+GUILHERME,DIAS CORRÊA,guilherme.195642@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+GUSTAVO,LENO BARBOSA DOS SANTOS,gustavo.195585@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+ISAAC,DE SOUZA DUTRA,isaac.194837@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+JERRAH,GUIMARAES CAROBEIRA DE ARAUJO,jerrah.182562@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+JULLIE,EMANUELLE DE SOUZA GOMES,jullie.193620@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+KÁSSIA,YASMIM SOUZA REIS DOS SANTOS,kassia.194078@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+LEIDE,HELENA MENEZES DA SILVA,leide.193870@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+LUANA,RODRIGUES AGUIAR,luana.194530@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+LUCAS,EDUARDO BRITO DOS SANTOS,lucas.194192@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+LUCAS,DE OLIVEIRA SILVA,lucas.193652@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+LUCAS,TAVARES MAIA,lucas.194669@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+MARIA,ESTER PINHEIRO MARQUES,maria.195466@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+MATHEUS,SOUZA LIMA,matheus.195464@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+MATHEUS,TAVARES BALBINO,matheus.195521@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+MÔNICA,VIANA SILVA,monica.195697@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+NICOLAS,MARIALVA CARDOSO,nicolas.193926@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+NICOLE,LUCCA PEDROSA LEITE,nicole.194679@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+PATRICK,MATHEUS FREITAS DE LIMA,patrick.194038@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+PAULO,DAVI GARCIA DE SOUZA,paulo.195578@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+RICARDO,HENRIQUE LAVAREDA PINTO,ricardo.195637@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+SAMYA,DE CASTRO CARVALHO,samya.182212@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+THAISY,VITÓRIA DA COSTA XAVIER,thaisy.194061@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+VICTOR,HUGO GONÇALVES PAVÃO,victor.193725@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+VITOR,GABRIEL ARAUJO PAIVA,vitor.193610@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+WESLLEM,CORRÊA DE CASTRO,wesllem.194523@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+YASMIM,EYSHILA BRANDÃO DA COSTA,yasmim.193933@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1AM
+AGATHA,MICKHAELLE DA SILVA OLEGARIO,agatha.195625@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ALAN,CAMPOS VIEIRA FILHO,alan.195137@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ALESSANDRA,LOPES BENTES,alessandra.194568@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ALICE,REGINA TAVARES DE CASTRO,alice.195471@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+AMANDA,DE ARAÚJO RIBEIRO,amanda.195513@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ANA,LUÍZA BUZAGLO CARVALHO,ana.195644@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ANDRESSA,CRISTINE MARINHO COSTA,andressa.194492@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ANDRÉ,DE ARAÚJO CAETANO,andre.194404@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ANTONIO,STEFANO DE OLIVEIRA MOREIRA	,antonio.193575@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+CAIO,LUAN LOUZADA NUNES,caio.193887@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+CIRO,AZEVEDO BORGES,ciro.193603@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+DANIEL,ALVES DA SILVA,daniel.195649@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+EDUARDA,BEZERRA COELHO,eduarda.195700@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ELIAS,EDUARDO FORMOSO DE ALBUQUEQUE,elias.195550@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ESTEFANE,KALINE CUNHA DOS SANTOS,estefane.193781@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+FABIANA,NAVEGANTE DA SILVA,fabiana.193564@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+GABRIEL,TORQUATO DE SOUZA,gabriel.195668@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+GABRIEL,CRUZ DA SILVA,gabriel.195564@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+GUILHERME,HENRIQUE MOURA DE SENA,guilherme.195533@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+HUGO,SALES CAVALCANTE,hugo.193896@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+IVAN,HERICLES BRANDAO MARTINS,ivan.193667@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+JAILANE,BARBOZA DA SILVA,jailane.195690@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+JANSSEN,ISMAEL BRAGANÇA BRAGA,janssen.195457@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+KAROLINE,DA SILVA NOGUEIRA,karoline.195489@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+KELWIN,EDUARDO LIMA DE VASCONCELOS,kelwin.193971@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+LEDA,SAMARA SUWA FARIAS,leda.195632@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+LORENA,DE OLIVEIRA GUEDES,lorena.195483@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+LUCAS,GABRIEL HERNANDEZ NOGUEIRA,lucas.195463@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+LUCAS,CARVALHO DOS SANTOS,lucas.193577@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+LUIZ,CLAUDIO DA AILVA OLIVEIRA,luiz.195498@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+MARIA,EDUARDA MONTEIRO MOTA,maria.195538@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+MATHEUS,ASAEL SILVA MACEDO,matheus.194334@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+MICHEL,ADRIANO FACUNDES FERREIRA,michel.194658@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+MIGUEL,CUNHA DE MENDONCA,miguel.194694@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+NICOLLY,GEOVANA VIEIRA FIGUEIREDO,nicolly.195696@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+PIETRO,DE OLIVEIRA ARAUJO MATOS,pietro.195572@fundacaomatiasmachline.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+POLLYANNA,DA SILVA BRELAZ,pollyanna.195524@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ROBSON,DA SILVA LIMA,robson.194635@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+SLOAN,MATHEUS GUAITOLINI PASTOR,sloan.195493@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+THAISSA,MARINHO SILVA,thaissa.195540@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+THIAGO,MATOS DA COSTA,thiago.193642@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+THIERY,HANRY MACIEL DA SILVA,thiery.194089@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+VINÍCIUS,RANGEL MARQUES DOS SANTOS,vinicius.194557@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+VIVIANE,MACEDO AUZIER,viviane.193774@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+WILLIAM,VINÍCIUS PEREIRA DE OLIVEIRA,william.193954@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+WILSON,JOSÉ SANTOS DE AQUINO,wilson.195500@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1BM
+ALINE,DE OLIVEIRA CASTRO,aline.195467@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+ALVARO,AUGUSTO CAMPOS SEVALHO,alvaro.195558@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+ANA,FLAVIA DE CASTRO SEGADILHA DA SILVA,ana.195536@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+ANANDA,PINHEIRO DOS SANTOS,ananda.195575@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+ANDRÉ,HEBERT MONTENEGRO DE SOUZA E SOUZA,andre.193766@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+ANTONIO,EDUARDO BATISTA COSTA,antonio.193869@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+BIANCA,AMORIM LEDO,bianca.195496@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+BRUNO,RAFAEL MOÇA DA MOTA,bruno.193710@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+CAUÃ,SOUSA DO NASCIMENTO,caua.194774@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+DEIVISON,DOS SANTOS RIBEIRO,deivison.194798@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+DÁFINY,YASMIN DOS SANTOS DE ARAÚJO,dafiny.195480@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+EMILY,GIOVANNA NUNES,emily.193939@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+ESTER,DO CARMO ALY,ester.195525@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+FRANCISCO,JOSÉ DE ARAUJO E SILVA NETO,francisco.195598@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+GABRIEL,FELIPE LIMA ALVES,gabriel.195626@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+GEISSIANE,ASSUNÇÃO DE SOUZA,geissiane.195468@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+GLEIDSON,DE SOUZA GOMES,gleidson.194417@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+IASMIN,VITÓRIA DE ALMEIDA NOBRE,iasmin.194205@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+IGOR,DANIEL BATISTA SUSSUARANA,igor.194742@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+ISAQUE,DIAS ALBUQUERQUE,isaque.195545@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+JEOVANA,PAIVA GOMES,jeovana.193746@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+JOAO,JOSE SANTOS MIRANDA OLIVEIRA,joao.195491@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+JÚLIA,EVELYN MOTA NOGUEIRA,julia.195514@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+KAREN,GARCIA VASCONCELOS,karen.193654@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+KEVEN,RUAN TAVARES ALBUQUERQUE,keven.194156@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+LAIZIANE,SILVA GOMES,laiziane.194702@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+LETICIA,CAVALCANTE MAGALHAES,leticia.193949@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+LUCAS,DOS SANTOS DANTAS,lucas.193936@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+LUCAS,HYAGO FONSECA PIMENTEL,lucas.195539@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+MAIA,SUELY GATO PENHA,maia.193967@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+MARCO,RUAS SALES PEIXOTO,marco.193764@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+MATHEUS,TORRES VALENTE,matheus.195692@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+MICKAEL,DREIVE MORAES DA SILVA,mickael.194052@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+MIGUEL,HENRIQUE FARIAS ALVES,miguel.195562@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+NADYLA,EUCIANNY DA SILVA CAMPOS,nadyla.195710@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+NAYANE,ARAGAO SILVA,nayane.194807@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+NESTOR,ANTONY FARIAS DE SOUZA,nestor.195527@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+NYCKOLAS,LEMOS CHAMY CESAR,nyckolas.193838@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+PEDRO,FRANCISCO FORTE DE ALMEIDA,pedro.195565@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+RAFAEL,PEDRO DA SILVA FLORÊNCIO,rafael.195686@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+RICSON,PAULO DA COSTA AFONSO,ricson.195661@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+RUAN,DA CONCEIÇÃO SANTARÉM,ruan.195629@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+VINICIUS,EDUARDO TINOCO DA SILVA,vinicius.193653@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+WILLIAM,DOS SANTOS GOMES,william.193839@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+WILLIAM,YURI RIBEIRO SILVA,william.195675@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+YAN,CHRISTIAN DE SOUZA SALES,yan.194815@fmm.org.br,/EnsMedio/Mecatronica/1oAno/1CM
+ADERLAN,VICTOR CASTRO DE MELO MIRANDA,aderlan.193398@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+AEL,VALUCHE CHAGAS CORADO,ael.173181@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+ALICE,GABRIELY COÊLHO DA MOTA,alice.193505@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+ANA,LETICIA BORGES DE SOUSA,ana.193403@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+ANA,FLAVIA LEITE MONTEIRO,ana.173176@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+ANTONIO,LUIS MACHADO CRESPO FILHO,antonio.193392@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+BEATRIZ,SOARES DE OLIVEIRA,beatriz.182253@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+BRUNO,COSTA RAMOS,bruno.193501@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+CAIO,ALEXANDRE DA CUNHA TORRES,caio.193379@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+CAIO,DANIEL LIMA DA SILVA,caio.193519@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+CARLOS,HENRIQUE PERIN MELO,carlos.193537@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+CARLOS,EUGÊNIO FERREIRA NETO,carlos.193538@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+CRISTIAN,RAFAEL AMAZONAS DUARTE,cristian.182263@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+DHEYSE,JESSICA MONTEIRO DE SOUZA,dheyse.182232@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+EMANUEL,DOS SANTOS TORRES,emanuel.193386@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+EMMILY,ARAUJO DA CUNHA,emmily.182880@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+ERIKO,LUIZ PRATES FERREIRA SILVA,eriko.193540@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+GABRIEL,AMERICI DA SILVA SALIGNAC DE SOUZA,gabriel.193500@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+GUSTAVO,BASTOS BARBOSA,gustavo.182520@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+HEBERT,LUAN DOS SANTOS GOMES,hebert.182735@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+HENRIQUE,PINHEIRO DA SILVA,henrique.193407@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+IORHAN,MARCELLO ALCÂNTARA DE OLIVEIRA,iorhan.193511@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+JACKELINE,LYRA DE OLIVEIRA,jackeline.182229@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+JORGE,GUILHERME MAGNO BASTOS,jorge.193526@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+JOYCE,SOUZA DE SOUZA,joyce.182792@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+JOÃO,GABRIEL PEREIRA DA COSTA REZENDE,joao.193525@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+KEVEN,LORAN BATISTA DA SILVA,keven.193520@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+LAÍZA,DE FARIAS MARINHO,laiza.182393@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+LUIZ,FELIPE LIMA PEREIRA,luiz.193384@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+MARCILENE,ROQUE SOUZA,marcilene.193504@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+MATEUS,SILVA DA SILVA,mateus.193389@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+MELISSA,GRAZIELA SOUZA DOS SANTOS,melissa.193381@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+MURILO,LAUSCHNER MARTINS,murilo.193400@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+NATHIELY,SARAIVA DE OLIVEIRA,nathiely.182510@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+PAMELA,SOUSA DOS SANTOS,pamela.193391@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+RAYLLAN,EMANOEL FERNANDES BATISTA,rayllan.182623@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+SANDRA,DIAS GOMES,sandra.182532@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+VITÓRIA,KAENNA CARVALHO OLIVEIRA,vitoria.182738@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+ÍTALO,DA SILVA SIQUEIRA,italo.193385@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2AM
+ADERVAN,BATISTA DE ARAÚJO NETO,adervan.193401@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+ALICE,LUIZA COUTINHO ARINANA,alice.193518@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+ANGELO,ANTONIO SAMIA CORREA,angelo.193408@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+ARTHUR,NICOLAS LIMA MELO,arthur.193506@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+BEATRIZ,FONSECA DE CARVALHO,beatriz.182204@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+BRENA,DOS SANTOS FREITAS,brena.193535@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+CARLOS,CARLOS HENRIQUE GUIMARÃES DA SILVA,carlos.170773@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+CARLOS,EDUARDO GAMA LOPES,carlos.193375@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+DANIEL,VINÍCIUS DA SILVA RAMOS,daniel.193534@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+ENDEL,SALLES DIAS,endel.193521@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+FELIPE,DE SOUZA EVANGELISTA,felipe.193416@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+GABRIEL,DA SILVA VIEIRA,gabriel.182166@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+GIOVANNA,SANTANA DE LIMA,giovanna.193377@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+GIOVANNI,BRUNO DA SILVA RAMOS,giovanni.193372@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+GUSTAVO,DE SENA XAVIER NUNES,gustavo.193382@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+IAGO,RAMOS MIRANDOLA DE LIMA,iago.182309@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+JESSÉ,MEDEIROS ALCANTARA,jesse.182428@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+JHONNATAS,ARAÚJO RIBEIRO DA SILVA,jhonnatas.193543@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+JOÃO,VICTOR MIRANDA DA SILVA,joao.193497@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+JOÃO,GABRIEL DA COSTA DUARTE,joao.182369@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+JOÃO,VICTOR CORDEIRO SILVA,joao.173147@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+JOÃO,DIEGO DA SILVA VILHENA,joao.193468@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+KAICK,EMANUEL DA COSTA OLIVEIRA,kaick.182475@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+KLISSIA,MAYARA MOTA DOS SANTOS,klissia.193388@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+LARISSA,ALVES GOMES,larissa.182784@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+LUAN,NORONHA MELO DA SILVA,luan.182572@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+LUCAS,SILVA DOS SANTOS,lucas.193395@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+LUIZ,GUSTAVO DA SILVA SIQUEIRA,luiz.182463@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+MARIA,EDUARDA DE SOUSA REZENDE,maria.193405@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+MICAELY,CAROLINE DOS SANTOS CATUNDA,micaely.193390@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+NAYLLA,GABRIELLA OLIVEIRA BARBOSA,naylla.193510@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+PAULO,VICTOR AMORIM DA SILVA,paulo.193374@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+PEDRO,SANTOS DA SILVA,pedro.193393@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+PEDRO,HENRIQUE MARQUES NÉSPOLI,pedro.193515@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+RAFAEL,FONSECA RAMOS,rafael.193494@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+RAYRO,ALENCAR DE MENEZES,rayro.193507@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+RENAN,SILVEIRA AMAZONAS,renan.193498@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+RENAN,DOURADO DE ARAUJO,renan.193558@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+SAMARA,JESSICA CLAUDIANO DE FREITAS,samara.182656@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+SAMUEL,VINÍCIUS QUEIROZ ABRAHÃO,samuel.182606@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+SOFIA,SOFIA DRUMOND SARDINHA BARROS,sofia.193397@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+SOPHIA,DE SOUZA FIGUEIREDO,sophia.193542@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+VICTOR,CÉSAR DA SILVA GALÚCIO BARROS,victor.182568@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+ÉRIKA,LIMA DE LIRA,erika.193536@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2BM
+ALEXSANDER,MACÊDO NEVES,alexsander.182193@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+AMANDA,VICTÓRIA DE MELO GOMES,amanda.182560@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+ANA,JÉSSICA ASSUNÇÃO MORAES,ana.193502@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+ANDREY,FELIPE SALES DA COSTA,andrey.193413@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+ANTONY,ALEXSANDREY MARQUES DE SOUZA,antony.193396@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+ASHLEY,FERRO DE SOUZA BEZERRA,ashley.193517@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+ASHLYN,HOSANNAS SEIXAS SINGH,ashlyn.183016@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+CARLOS,HENRIQUE DA SILVA FRANÇA,carlos.182622@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+CAUAN,GONÇALVES FERREIRA,cauan.193376@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+DIEGO,JESUS DA COSTA,diego.193499@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+EMILLY,CARLA CAVALCANTE DE SOUZA,emilly.193496@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+FELIPE,GUILHERME E SILVA,felipe.193550@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+FERNANDA,MARTINS DIAS,fernanda.171132@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+GABRIEL,PAOLUCCI SALES FROTA CORRÊA,gabriel.193533@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+GABRIEL,SOTERO MENDONÇA,gabriel.182143@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+GEUDES,ARAÚJO GOMES JÚNIOR,geudes.193387@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+HELOISA,LIMA MONTEIRO,heloisa.170758@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+JOSE,VITOR SOUZA SILVA,jose.182254@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+JOVANNA,DA SILVA CATUNDA,jovanna.182220@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+JOÃO,FELIPE SALES DE SOUSA,joao.193404@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+KEVIN,CARLOS TAVARES DE FREITAS,kevin.193508@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+KEVYN,WILLIANS GOMES PINHEIRO,kevyn.182516@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+LAISA,ALICE DE JESUS ANDRADE,laisa.193495@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+LUCAS,RODRIGUES CEREZINI,lucas.193371@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+LUCAS,EMANUEL BRAGA NEVES,lucas.193523@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+MARIA,VITÓRIA ROCHA SOUSA,maria.193522@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+MITCA,HARADA TEIXEIRA DE OLIVEIRA,mitca.173199@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+NÍVEA,MANUELA PINHEIRO GOMES,nivea.182625@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+PAULO,EDUARDO RAMOS DE SIQUEIRA E SILVA,paulo.193539@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+RAYNAN,ARCANJO MORIZ,raynan.193512@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+RENAN,ALMEIDA TEIXEIRA,renan.193409@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+RICARDO,LUCCA SILVA CORRÊA,ricardo.182171@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+RICHARD,GIL FERREIRA BRITO,richard.193503@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+RIQUELME,GAMA DA CUNHA,riquelme.193516@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+SAMILY,DOS SANTOS RODRIGUES,samily.193509@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+SAMUEL,VICTOR MENDES SOLANO,samuel.193527@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+SIDNEY,MATHEUS LIMA DA ROCHA,sidney.193514@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+SOFIA,SANTANA TEIXEIRA,sofia.182181@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+THAYNÁ,GUIMARÃES DA SILVA,thayna.193524@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+VINÍCIUS,DA SILVA BRITO,vinicius.182363@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+VÍTOR,HUGO VASCONCELOS DE OLIVEIRA,vitor.193383@fmm.org.br,/EnsMedio/Mecatronica/2oAno/2CM
+ADRIELLY,SAMMILLY SANTANA DA SILVA,adrielly.171832@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+ALAN,DIAS MONTEIRO JUNIOR,alan.171777@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+BRUNA,MARIA FIGUEIREDO DE FREITAS,bruna.171835@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+CARLOS,EDUARDO DIAS CLEMENTE,carlos.171757@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+EDUARDO,DA SILVA MACIEL,eduardo.170215@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+EMMUS,SOUZA PRADO,emmus.170157@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+FELIPE,DA SILVA VIEIRA,felipe.171761@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+GABRIEL,MENEZES DA CUNHA,gabriel.171758@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+GABRIEL,RAMON MARQUES DE PAULA DUARTE,gabriel.171815@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+GEAN,FELIPE ALBUQUERQUE CABRAL,gean.172068@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+GUSTAVO,LIMA DANTAS,gustavo.171772@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+HANIF,FERREIRA BARROS DA SILVA,hanif.171792@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+ISRAEL,VINICIUS DOS SANTOS SANTOS,israel.171837@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+JOSÉ,LUAN SOARES MORAES,jose.171787@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+JUDI,CARLA MELO CAUPER,judi.171793@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+JÉSSICA,OLIVEIRA DE SOUZA,jessica.170953@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+JÚLIO,CÉSAR SANTOS DOS SANTOS,julio.171749@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+LARISSA,OLIVEIRA COUTINHO,larissa.171765@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+LEONARDO,RAMOS,leonardo.171859@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+LEONARDO,FIGUEIREDO SANTOS,leonardo.171856@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+LORENZO,SOUZA LIBÓRIO,lorenzo.171485@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+LUCAS,FERNANDES OLIVEIRA,lucas.171794@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+LUIZ,ANTONIO GONZAGA CERDEIRA DE SOUSA,luiz.171810@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+MARCOS,VINÍCIUS REIS GALVÃO,marcos.171783@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+MARIA,LILIAN SADALA BRAGA,maria.172026@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+MOISÉS,FELIPE CRUZ FONSECA,moises.171844@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+NELSON,PEREIRA DE CARVALHO NETO,nelson.171782@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+ORIVALDO,BRONI XAVIER JUNIOR,orivaldo.171833@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+PALOMA,CRISTINA NASCIMENTO DE PAULA,paloma.171767@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+PEDRO,VICTOR OLIVEIRA DE SOUZA,pedro.171797@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+RAFAEL,DE SOUZA COELHO,rafael.172070@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+RAYSSA,MANOELA FERREIRA VITOR,rayssa.171762@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+REGINA,DA SILVA SANTOS,regina.172013@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+RENAN,BASTOS ALBUQUERQUE,renan.171802@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+SAMIRA,RAMOS DOS SANTOS,samira.171788@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+SAMUEL,PRAIA TRIGUEIRO,samuel.171768@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+SARAH,DE ASSIS ANDRADE,sarah.171817@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+THAIS,FARIAS SIQUEIRA,thais.171818@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+VILKERSON,LEANDRO DA SILVA FELIPE,vilkerson.171839@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+VITOR,ALVES LIMA,vitor.171756@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+ÍCARO,AFONSO DE ARAÚJO FONSÊCA,icaro.171785@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+ÍRIS,CAMILLE ESTEVES GUIMARÃES,iris.171773@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3AM
+ADRIA,BARRETO DOS SANTOS,adria.171811@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+ANNE,VICTORIA BATISTA AUZIER,anne.170560@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+BRUNA,DANIELY DE SOUZA OLIVEIRA,bruna.171829@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+CAIO,CÉSAR GUIMAS PERES,caio.171854@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+ELIENAI,RODRIGUES PENHA,elienai.171795@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+ERILSON,SANTOS DE SOUSA JUNIOR,erilson.171824@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+FERNANDA,FERREIRA DA SILVA,fernanda.171789@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+ISAQUE,SALGADO ARAÚJO,isaque.170859@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+MARISTELA,QUEIROZ DE MATOS,maristela.171830@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+NICOLE,BATISTA SILVA,nicole.171804@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+PAULO,ROBERTO DÁCIO LIMA,paulo.171825@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+VÍTOR,LUAN RAMIRES DE SOUZA,vitor.172014@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+RICARDO,AUGUSTO SILVA BONFIM,ricardo.171851@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+JOSÉ,RICARDO BARROS DA SILVA,jose.171932@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+PEDRO,HENRIQUE SOUZA DOS SANTOS,pedro.172069@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+KAUÃ,VINÍCIUS LIMA GALÚCIO,kaua.171786@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+ELIAS,EMANUEL CARVALHO LOPES,elias.171820@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+EQUISSON,JUNIO BEZERRA DA SILVEIRA,equisson.171801@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+KENNEDY,SIMÕES RODRIGUES,kennedy.171805@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+ANA,PAULA SILVA DO NASCIMENTO,ana.172072@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+DANIEL,ESTEVÃO CARVALHO LEÃO,daniel.171800@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+LUIZ,FERNANDO DE SENA BARBOSA,luiz.171744@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+VINÍCIUS,WESEM BARROS,vinicius.171755@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+CARLOS,EDUARDO DE MOURA BATISTA,carlos.171791@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+DAVID,ENOQUE DOS SANTOS VASCONCELOS,david.172035@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+IAGO,GABRIEL VALENTE DE OLIVEIRA,iago.171838@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+KÍVIA,GOMES NOGUEIRA,kivia.171790@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+KÁSSIO,VINICIUS LOPES DIAS,kassio.172095@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+VÍCTOR,HUGO VASCONCELOS DA SILVA,victor.172073@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+FELIPE,DUARTE PESSÔA,felipe.171759@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+MARIA,EDUARDA PORTUGAL LOPES,maria.171770@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+NAOMI,LOPES CAMPOS,naomi.171821@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+JÚLIO,HIAGO DE SOUZA,julio.171843@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+LUCAS,RAFAEL DE LIMA ARAGÃO,lucas.172074@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+FILIPHE,MARQUES DA CRUZ,filiphe.171766@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+SAMUEL,LEAL MOREIRA,samuel.172024@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+KLIJA,GOMES DA COSTA,klija.171803@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+GABRIEL,REZENDE GUERRA,gabriel.171823@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+JOEL,ROOL DE MELO JUNIOR,joel.171778@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+LAEL,SAMPAIO MARQUES,lael.171809@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+CIRA,LUENE SANTOS DA SILVA,cira.171769@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3BM
+AGATHA,ALVES GUIMARÃES,agatha.171814@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+ALINY,SOUZA RAMOS,aliny.171779@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+ANDRE,MARINHO ALMEIDA DE OLIVEIRA,andre.171836@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+ANDRE,MARINHO ALMEIDA DE OLIVEIRA,andre.171840@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+ANDREW,DE ALBUQUERQUE VASCONCELOS,andrew.172076@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+BIANCA,PERES DOS SANTOS,bianca.171819@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+BRENDA,LETÍCIA DOS SANTOS SILVA E SILVA,brenda.171775@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+CARLOS,EDUARDO DE MESQUITA TAVEIRA,carlos.171850@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+CARLOS,PINHEIRO JEFFRYES JÚNIOR,carlos.171747@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+DANIEL,RODRIGUES CAVALCANTE DE MENEZES,daniel.171855@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+ESDRAS,ROBERTO CARVALHO DE SOUZA,esdras.171841@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+FELIPE,DUARTE TRINDADE,felipe.171846@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+FERNANDA,PEREIRA NASCIMENTO,fernanda.171764@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+FRANCISCO,GOMES NASCIMENTO NETO,francisco.171776@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+FÁBIO,HENRIQUE FERREIRA ARAÚJO,fabio.171118@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+GABRIEL,TEIXEIRA SOARES,gabriel.172079@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+GUILHERME,HENRIQUE DE ALMEIDA NOGUEIRA DA SILVA,guilherme.172080@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+HANDERSON,MELO DE SOUZA,handerson.171842@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+HELLEN,GABRIELY DA COSTA ALBUQUERQUE,hellen.171751@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+IASMIM,NAZARIO CARVALHO,iasmim.171831@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+INGRIDY,FREIRE DE OLIVEIRA,ingridy.171752@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+JOSUÉ,DA SILVA SOUZA FILHO,josue.172102@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+JÉSSICA,SANTOS DO CARMO,jessica.171781@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+KALEBE,CAMPOS DO NASCIMENTO,kalebe.171812@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+LAIZA,DO NASCIMENTO PRACIANO,laiza.171836@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+LEANDRO,MONTEIRO GIL DA SILVA,leandro.171156@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+LUCAS,CUNHA DOS SANTOS LEITÃO,lucas.171849@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+LUCIANO,JACINTO LEITE,luciano.171845@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+LUIZ,GUSTAVO DANIEL SILVA,luiz.171748@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+LUIZ,FELIPE BRANDÃO DE FARIAS,luiz.171796@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+MARCOS,ELIAS MACIEL DA SILVA,marcos.170969@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+MARCOS,COSTA ANTUNES AFONSO,marcos.171857@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+MARCUS,ALBERTO TEIXEIRA VIEIRA,marcus.172081@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+MATTEO,FREITAS REIS,matteo.171852@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+NICOLLAS,PITER MENDES DE AGUIAR,nicollas.171808@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+RAFAEL,SILVA DE MEDEIROS,rafael.171753@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+RAIMUNDO,NONATO CARVALHO DOS SANTOS NETO,raimundo.171754@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+RAYANE,CRISTINA SANTOS MARQUES,rayane.182101@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+RONALD,KAUAN DA MOTA PAZ,ronald.172099@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+RUI,YUGUI DA COSTA MAFRA,rui.171813@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+VALÉRIA,RIBEIRO DOS SANTOS,valeria.171853@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+YAGO,LUÍS BARROS DUARTE,yago.171760@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+YARA,DA ROCHA MARINHO,yara.171828@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
+YGOR,DUQUE JOHNSON CAETANO,ygor.171827@fmm.org.br,/EnsMedio/Mecatronica/3oAno/3CM
